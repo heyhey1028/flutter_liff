@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug web",
+        "program": "lib/main.dart",
+        "request": "launch",
+        "type": "dart",
+        "args": [
+            "-v",
+            "--debug",
+            "-d",
+            "chrome",
+        ]
+      },
+      {
+        "name": "Debug web-server",
+        "program": "lib/main.dart",
+        "request": "launch",
+        "type": "dart",
+        "args": [
+            "-d",
+            "web-server",
+            "--web-port=8080"
+        ]
+      },
+    ]
+  }
+  

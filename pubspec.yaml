@@ -9,9 +9,14 @@ environment:
   sdk: ">=2.17.6 <3.0.0"
 
 dependencies:
+  cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
+  fluttertoast: ^8.0.9
+  flutter_dotenv: ^5.0.2
+  flutter_line_liff: ^0.0.3 # Ref: https://pub.dev/packages/flutter_line_liff
+  nil: ^1.1.1 # Ref: https://zenn.dev/wakanao/articles/078809dce5fa74
+
 
 dev_dependencies:
   flutter_test:
@@ -20,4 +25,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - .env.development # Ref: https://zenn.dev/someone7140/articles/2d0d65704a5b1e
 

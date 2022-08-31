@@ -1,16 +1,6 @@
 # flutter_liff
 
-A new Flutter project.
+A test project in creating LIFF app with flutter web
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Current progress
+![liff_test_gif1](https://user-images.githubusercontent.com/44666053/187634207-c8193397-9111-4899-8126-59d02bd7037d.gif)

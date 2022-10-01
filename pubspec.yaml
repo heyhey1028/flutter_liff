@@ -16,6 +16,7 @@ dependencies:
   flutter_dotenv: ^5.0.2
   flutter_line_liff: ^0.0.3 # Ref: https://pub.dev/packages/flutter_line_liff
   nil: ^1.1.1 # Ref: https://zenn.dev/wakanao/articles/078809dce5fa74
+  js: ^0.6.4
 
 
 dev_dependencies:
